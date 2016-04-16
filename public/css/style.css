@@ -1,0 +1,22 @@
+
+/*slider*/
+.carousel-inner > .item > img,
+.carousel-inner > .item > a > img {
+    width: 100%;
+    height: 30%;
+    margin: auto;
+}
+body{
+    background-color: #668cff;
+}
+table>tr>td{
+    color: ivory
+}
+
+.searchsymbol{
+    color: white;
+}
+
+.jumbotron{
+     background-color: #99b3ff;
+}
