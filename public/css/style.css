@@ -24,3 +24,13 @@ table>tr>td{
 .portfolio-item {
     margin-bottom: 25px;
 }
+
+.news{
+    width: 70%;
+    margin: auto;
+    margin-bottom: 25px;
+}
+.gradefont{
+    font-family: Barbedor T;
+}
+
