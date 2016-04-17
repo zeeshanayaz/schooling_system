@@ -7,7 +7,7 @@
     margin: auto;
 }
 body{
-    background-color: #668cff;
+    background-color: white;
 }
 table>tr>td{
     color: ivory
@@ -19,4 +19,8 @@ table>tr>td{
 
 .jumbotron{
      background-color: #99b3ff;
+}
+
+.portfolio-item {
+    margin-bottom: 25px;
 }
