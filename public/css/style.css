@@ -44,3 +44,17 @@ table>tr>td{
     margin-top: 0px;
     padding-top: 0px;
 }
+.navbar a{
+    color: rgba(0, 5, 103, 1) !important;
+    font-weight: bold !important;
+}
+.navbar a:hover,.navbar a a:hover{
+    color: white !important;
+    font-weight: bolder !important;
+}
+.navbar-header a:hover{
+    color: rgba(0, 5, 103, 1) !important;
+}
+.navbar li:hover{
+    background-color: purple !important;
+}
