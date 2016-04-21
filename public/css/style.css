@@ -6,8 +6,9 @@
     height: 30%;
     margin: auto;
 }
+/*Body*/
 body{
-    background-color: white;
+    background-color: #DDDDDD;
 }
 table>tr>td{
     color: ivory
@@ -16,10 +17,16 @@ table>tr>td{
 .searchsymbol{
     color: white;
 }
-
+/*Jumbotron style*/
 .jumbotron{
-     background-color: #99b3ff;
+     background-color: #2225ff;
 }
+.jumbotron h1{
+    font-family: 'Carter One';
+    color: white; !important;
+
+}
+/*Jumbotron style*/
 
 .portfolio-item {
     margin-bottom: 25px;
@@ -29,9 +36,6 @@ table>tr>td{
     width: 70%;
     margin: auto;
     margin-bottom: 25px;
-}
-.gradefont{
-    font-family: Barbedor T;
 }
 .emaanlogofont{
     font-family: 'Barbedor T';
@@ -44,6 +48,7 @@ table>tr>td{
     margin-top: 0px;
     padding-top: 0px;
 }
+/*Nav bar style*/
 .navbar a{
     color: rgba(0, 5, 103, 1) !important;
     font-weight: bold !important;
@@ -58,3 +63,10 @@ table>tr>td{
 .navbar li:hover{
     background-color: purple !important;
 }
+/*End Nav bar style*/
+
+/*hr line style*/
+hr{
+    border: 1px solid #2225ff; !important;
+}
+/*End hr line style*/
