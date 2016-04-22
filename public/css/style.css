@@ -63,6 +63,9 @@ table>tr>td{
 .navbar li:hover{
     background-color: purple !important;
 }
+.navbar li:active{
+    background-color: #2225ff !important;
+}
 /*End Nav bar style*/
 
 /*hr line style*/
