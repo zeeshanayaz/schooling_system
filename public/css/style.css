@@ -22,7 +22,7 @@ table>tr>td{
      background-color: #2225ff;
 }
 .jumbotron h1{
-    font-family: 'Carter One';
+    font-family: 'Carter One' !important;
     color: white; !important;
 
 }
