@@ -8,10 +8,12 @@
 }
 /*Body*/
 body{
-    background-color: #DDDDDD;
+
+    background-image: url(http://hdimagesnew.com/wp-content/uploads/2015/11/White-Texture-HD-Backgrounds-6.jpg);
+    height: 100%;
 }
 table>tr>td{
-    color: ivory
+    color: transparent;
 }
 
 .searchsymbol{
@@ -78,4 +80,11 @@ hr{
     background-color: #5cb85c;
     cursor:     pointer;
     color: white;
+}
+
+.about p, .admission-content p{
+    font-size: 18px !important;
+}
+.about h2, .admission-content h2{
+    font-family: "Times New Roman" !important;
 }
