@@ -73,3 +73,9 @@ hr{
     border: 1px solid #2225ff; !important;
 }
 /*End hr line style*/
+
+.news-strip{
+    background-color: #5cb85c;
+    cursor:     pointer;
+    color: white;
+}
